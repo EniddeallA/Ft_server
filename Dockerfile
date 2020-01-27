@@ -25,8 +25,6 @@ RUN echo '\e[36m\e[1m============ PHP ============\e[0m'
 RUN apt-get -y install php-fpm php-mysql
 #####
 
-
-
 ######
 RUN echo '\e[36m\e[1m============ WORDPRESS ============\e[0m'
 RUN echo '\e[36m\e[1m============ REQUIREMENTS ============\e[0m'
