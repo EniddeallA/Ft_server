@@ -12,3 +12,5 @@ RUN sh config.sh
 COPY srcs/wp-config.php /var/www/wordpress
 COPY srcs/start.sh /start.sh
 CMD sh start.sh
+
+#Password_2000#2020
